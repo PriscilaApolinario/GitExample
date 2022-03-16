@@ -15,5 +15,6 @@ class ViewController: UIViewController {
     }
     var primeiro = "Commit"
     var segunda = ""
+    var terceira = ""
 }
 
